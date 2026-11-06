@@ -1,0 +1,6 @@
+{
+  "name": "FITNESS HUB",
+  "description": "Luxury native Android fitness and gym management application with multi-role access (Gym Owner, Trainer, Member, Normal User), workout & diet plans, fitness calculators, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
